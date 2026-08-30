@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mode Switcher</string>
+    <string name="mode_default">Switching mode…</string>
+</resources>
